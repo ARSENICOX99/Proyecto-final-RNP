@@ -27,6 +27,7 @@ orden. La CELDA 1 descarga automáticamente `sondajes_clean.xlsx` desde este
 repositorio si no está presente; no requiere montar Drive. Entorno sugerido:
 GPU T4 (acelera Transformer/GNN/WGAN; el IK corre en CPU).
 
+
 **Opción B — Local:**
 ```bash
 git clone https://github.com/ARSENICOX99/Proyecto-final-RNP.git
